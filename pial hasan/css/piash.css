@@ -1,0 +1,30 @@
+
+
+
+.logo img{
+	width: 15%;
+	margin-left: 500px;
+}
+.hading{
+	margin-left: 250px;
+	background: #62629c;
+	padding: 23px;
+    margin: 24px;
+}
+.hading p{
+	color: #eacaec;
+	    margin: 28px;
+
+}
+.hading h1{
+	text-align: center;
+	margin: -23px;
+
+}
+.hading span{
+	color: yellow;
+}
+.container img{
+	width: 1000px;
+    margin-left: 200px;
+}
